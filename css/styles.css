@@ -1,0 +1,322 @@
+#title{
+    background-color: #0a192f;
+}
+
+
+.big-heading{
+    padding-top: 30%;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
+    color: #64ffda;
+
+}
+
+.big-sub-heading{
+    text-align: left;
+    line-height: 2.5;
+    font-family: 'Montserrat', sans-serif;
+    color: #64ffda;
+    padding-bottom: 10%;
+}
+
+.big-heading2{
+    font-size: 5.5rem;
+    line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+h2{
+    font-family: "Montserrat" ;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 3% 15% 70% 15%;
+    
+}
+
+.second-container{
+    padding: 10% 15%;
+    
+}
+
+body{
+    font-family: 'Montserrat';
+}
+
+section{
+    color: #fff;    
+}
+
+
+
+
+
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+}
+
+.navbar{
+    padding: 0 0 4.5rem;
+
+}
+
+
+
+.nav-item{
+    padding: 0 18px;
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+}
+
+
+
+
+.download-button{
+    margin: 5% 3% 5% 0%;
+}
+
+.title-image{
+    width: 25%;
+    transform: rotate(25deg);
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 80px;
+   
+
+}
+
+#features{
+    color: #fff;
+    text-align: left;
+    background-color: #0a192f;
+ 
+
+  
+}
+
+.projects-title{
+    color: #fff;
+    padding-bottom: 5%;
+
+}
+
+.projects-text{
+    color: #8f8f8f;
+}
+
+
+.iconic{
+    color: #8f8f8f;
+    margin: auto;
+
+}
+
+.iconic:hover {
+    color: #64ffda;
+}
+
+h3{
+    color: #000;
+    font-size: 1.5rem;
+}
+
+.features-subtext{
+    color: #8f8f8f;
+}
+
+#testimonials{
+    padding: 3% 15%;
+    text-align: center;
+    background-color: #ef8172;
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 12%;
+    margin: 20px 20px 50px;       
+}
+
+body{
+    background-color: #0a192f;
+}
+.file-icon{
+    color:#64ffda;
+}
+
+.icon-styling{
+    padding-top: 30%;
+}
+.link-icon{
+    color:#64ffda;
+}
+
+.card-icon{
+    margin-top: 5%;
+    margin-right: 5%;
+    color:#64ffda;
+}
+
+#pricing{
+    padding: 3% 15%;
+    background-color: #0a192f;
+}
+.card-title{
+    color:#000;
+    font-weight: bold;
+}
+
+.card-top{
+    color:#fff;
+    text-align: center;
+    font-family: 'Montserrat';
+    background-color: #0a192f;
+
+}
+
+.card-mid{
+    color:#fff;
+    text-align: center;
+    font-family: 'Montserrat';
+    background-color: #112240;
+}
+
+.card-text{
+    color:#fff;
+    background-color: #112240;
+    
+}
+
+.card-body{
+    padding-bottom: 10%;
+    background-color: #112240;
+}
+
+@media (max-width: 1028px){
+
+    #title{
+        text-align: center;
+    }
+
+    .title-image{
+        position: static;
+        transform: rotate(0deg);
+        margin-left: 0px;
+        width: 60%;
+    }
+}
+
+
+#about_me{
+    color: #fff;
+    text-align: left;
+    background-color: #0a192f;;
+
+  
+}
+
+#projects{
+    color: #fff;
+    text-align: left;
+    background-color: #0a192f;;
+
+  
+}
+
+/* Call For Action */
+#cta{
+    text-align: center;
+    padding-bottom: 30px;
+}
+/* Footer */
+#footer{
+    text-align: center;
+    background-color: #0a192f;
+}
+
+
+.skill-row{
+    padding-top: 5%;
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.rows{
+    margin: 100px auto 100px;
+    width: 85%;
+    text-align: left;
+    line-height: 1.5;
+}
+.skill-row-icon{
+    margin: 100px auto 100px;
+    width: 30%;
+    text-align: center;
+    line-height: 1.5;
+}
+
+
+.me-img{
+    float: right;
+    margin-left: 30px;
+    width: 420px;
+    height: 350px;
+}
+
+.loan-img{
+    float: right;
+    margin-left: 30px;
+    width: 400px;
+    height: 250px;
+}
+
+
+
+.code-img{
+    float: left;
+    margin-right: 30px;
+    width: 350px;
+    height: 225px;
+}
+
+.web{
+    float: right;
+    margin-left: 30px;
+    width: 400px;
+    height: 280px;
+}
+
+.overlay{
+    z-index: 9;
+}
+
+#fixed-it{
+    position: fixed;
+}
+
+#double-fixed-it{
+    position: absolute;
+}
+
+.about-me-subtext{
+    text-align: center;
+}
